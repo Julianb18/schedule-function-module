@@ -1,0 +1,12 @@
+{
+  "name": "tech-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "rewire": "^6.0.0"
+  }
+}
